@@ -6,7 +6,7 @@ title: 1.2 Topic Videos
 uid: c6b15600-7ff9-e918-f099-32c3700a9011
 ---
 
-*   [<Annotated Slides]({{< baseurl >}}/pages/c1/c1s1)
+*   [\<Annotated Slides]({{< baseurl >}}/pages/c1/c1s1)
 *   [1.2.1What is Information?]({{< baseurl >}}/pages/c1/c1s2)
 *   [1.2.2Quantifying Information]({{< baseurl >}}/pages/c1/c1s2/c1s2v2)
 *   [1.2.3Entropy]({{< baseurl >}}/pages/c1/c1s2/c1s2v3)

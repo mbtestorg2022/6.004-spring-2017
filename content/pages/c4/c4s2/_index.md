@@ -6,7 +6,7 @@ title: 4.2 Topic Videos
 uid: 16d99d53-bc32-2c68-e45c-056821c57278
 ---
 
-*   [<Annotated Slides]({{< baseurl >}}/pages/c4/c4s1)
+*   [\<Annotated Slides]({{< baseurl >}}/pages/c4/c4s1)
 *   [4.2.1Sum of Products]({{< baseurl >}}/pages/c4/c4s2)
 *   [4.2.2Useful Logic Gates]({{< baseurl >}}/pages/c4/c4s2/c4s2v2)
 *   [4.2.3Inverting Logic]({{< baseurl >}}/pages/c4/c4s2/c4s2v3)

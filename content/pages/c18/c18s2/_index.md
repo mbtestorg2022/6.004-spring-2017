@@ -6,7 +6,7 @@ title: 18.2 Topic Videos
 uid: fa697aed-8dfd-8206-d150-e1218c118201
 ---
 
-*   [<Annotated Slides]({{< baseurl >}}/pages/c18/c18s1)
+*   [\<Annotated Slides]({{< baseurl >}}/pages/c18/c18s1)
 *   [18.2.1OS Device Handlers]({{< baseurl >}}/pages/c18/c18s2)
 *   [18.2.2SVCs for Input/Output]({{< baseurl >}}/pages/c18/c18s2/c18s2v2)
 *   [18.2.3Example: Match Handler with OS]({{< baseurl >}}/pages/c18/c18s2/c18s2v3)

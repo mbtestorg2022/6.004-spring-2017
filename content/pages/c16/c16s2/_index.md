@@ -6,7 +6,7 @@ title: 16.2 Topic Videos
 uid: 3b281e42-db10-8f1f-f6e4-71fa803f6cdf
 ---
 
-*   [<Annotated Slides]({{< baseurl >}}/pages/c16/c16s1)
+*   [\<Annotated Slides]({{< baseurl >}}/pages/c16/c16s1)
 *   [16.2.1Even More Memory Hierarchy]({{< baseurl >}}/pages/c16/c16s2)
 *   [16.2.2Basics of Virtual Memory]({{< baseurl >}}/pages/c16/c16s2/c16s2v2)
 *   [16.2.3Page Faults]({{< baseurl >}}/pages/c16/c16s2/c16s2v3)

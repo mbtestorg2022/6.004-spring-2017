@@ -6,7 +6,7 @@ title: 12.2 Topic Videos
 uid: fc44a356-c643-ef09-949b-723bc06e5623
 ---
 
-*   [<Annotated Slides]({{< baseurl >}}/pages/c12/c12s1)
+*   [\<Annotated Slides]({{< baseurl >}}/pages/c12/c12s1)
 *   [12.2.1Procedures]({{< baseurl >}}/pages/c12/c12s2)
 *   [12.2.2Activation Records and Stacks]({{< baseurl >}}/pages/c12/c12s2/c12s2v2)
 *   [12.2.3Stack Frame Organization]({{< baseurl >}}/pages/c12/c12s2/c12s2v3)

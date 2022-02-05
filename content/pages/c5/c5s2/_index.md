@@ -6,7 +6,7 @@ title: 5.2 Topic Videos
 uid: e01318d3-35d4-9080-2f77-dae35f856d7f
 ---
 
-*   [<Annotated Slides]({{< baseurl >}}/pages/c5/c5s1)
+*   [\<Annotated Slides]({{< baseurl >}}/pages/c5/c5s1)
 *   [5.2.1Digital State]({{< baseurl >}}/pages/c5/c5s2)
 *   [5.2.2D Latch]({{< baseurl >}}/pages/c5/c5s2/c5s2v2)
 *   [5.2.3D Register]({{< baseurl >}}/pages/c5/c5s2/c5s2v3)

@@ -6,7 +6,7 @@ title: 2.2 Topic Videos
 uid: 80ba6453-e630-7129-a21b-4719e902522d
 ---
 
-*   [<Annotated Slides]({{< baseurl >}}/pages/c2/c2s1)
+*   [\<Annotated Slides]({{< baseurl >}}/pages/c2/c2s1)
 *   [2.2.1Concrete Encoding of Information]({{< baseurl >}}/pages/c2/c2s2)
 *   [2.2.2Analog Signaling]({{< baseurl >}}/pages/c2/c2s2/c2s2v2)
 *   [2.2.3Using Voltages Digitally]({{< baseurl >}}/pages/c2/c2s2/c2s2v3)

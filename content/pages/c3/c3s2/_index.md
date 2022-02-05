@@ -6,7 +6,7 @@ title: 3.2 Topic Videos
 uid: 335a4984-a0cf-abb0-a4f2-ea9f1bf5f315
 ---
 
-*   [<Annotated Slides]({{< baseurl >}}/pages/c3/c3s1)
+*   [\<Annotated Slides]({{< baseurl >}}/pages/c3/c3s1)
 *   [3.2.1MOSFET: Physical View]({{< baseurl >}}/pages/c3/c3s2)
 *   [3.2.2MOSFET: Electrical View]({{< baseurl >}}/pages/c3/c3s2/c3s2v2)
 *   [3.2.3CMOS Recipe]({{< baseurl >}}/pages/c3/c3s2/c3s2v3)

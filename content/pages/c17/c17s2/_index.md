@@ -6,7 +6,7 @@ title: 17.2 Topic Videos
 uid: 4ee7d448-d42f-22ac-fa6c-f0c41a85fe4f
 ---
 
-*   [<Annotated Slides]({{< baseurl >}}/pages/c17/c17s1)
+*   [\<Annotated Slides]({{< baseurl >}}/pages/c17/c17s1)
 *   [17.2.1Recap: Virtual Memory]({{< baseurl >}}/pages/c17/c17s2)
 *   [17.2.2Processes]({{< baseurl >}}/pages/c17/c17s2/c17s2v2)
 *   [17.2.3Timesharing]({{< baseurl >}}/pages/c17/c17s2/c17s2v3)

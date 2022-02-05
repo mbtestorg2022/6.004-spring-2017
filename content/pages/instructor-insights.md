@@ -82,7 +82,18 @@ Assessment
 
 The students' grades were based on the following activities:
 
-| - 56% Quizzes{{< br >}}- 35% Labs (nonzero score required on each lab){{< br >}}- 9% Design project{{< br >}} 
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+- 56% Quizzes
+- 35% Labs (nonzero score required on each lab)
+- 9% Design project
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Student Information
 -------------------

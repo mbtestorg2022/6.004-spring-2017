@@ -6,7 +6,7 @@ title: 7.2 Topic Videos
 uid: 73b2c57f-6d66-9b9c-4894-e14fae072f07
 ---
 
-*   [<Annotated Slides]({{< baseurl >}}/pages/c7/c7s1)
+*   [\<Annotated Slides]({{< baseurl >}}/pages/c7/c7s1)
 *   [7.2.1Latency and Throughput]({{< baseurl >}}/pages/c7/c7s2)
 *   [7.2.2Pipelined Circuits]({{< baseurl >}}/pages/c7/c7s2/c7s2v2)
 *   [7.2.3Pipelining Methodology]({{< baseurl >}}/pages/c7/c7s2/c7s2v3)

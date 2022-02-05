@@ -6,7 +6,7 @@ title: 21.2 Topic Videos
 uid: fe5883b3-ab22-9104-9169-85cf37e78935
 ---
 
-*   [<Annotated Slides]({{< baseurl >}}/pages/c21/c21s1)
+*   [\<Annotated Slides]({{< baseurl >}}/pages/c21/c21s1)
 *   [21.2.1Instruction-level Parallelism]({{< baseurl >}}/pages/c21/c21s2)
 *   [21.2.2Data-level Parallelism]({{< baseurl >}}/pages/c21/c21s2/c21s2v2)
 *   [21.2.3Thread-level Parallelism]({{< baseurl >}}/pages/c21/c21s2/c21s2v3)

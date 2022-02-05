@@ -6,7 +6,7 @@ title: 8.2 Topic Videos
 uid: ae991901-cdb6-6775-2838-78b6c6c26194
 ---
 
-*   [<Annotated Slides]({{< baseurl >}}/pages/c8/c8s1)
+*   [\<Annotated Slides]({{< baseurl >}}/pages/c8/c8s1)
 *   [8.2.1Power Dissipation]({{< baseurl >}}/pages/c8/c8s2)
 *   [8.2.2Carry-select Adders]({{< baseurl >}}/pages/c8/c8s2/c8s2v2)
 *   [8.2.3Carry-lookahead Adders]({{< baseurl >}}/pages/c8/c8s2/c8s2v3)

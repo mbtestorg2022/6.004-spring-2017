@@ -95,10 +95,63 @@ The final grade is determined by performance on the quizzes (120 points total), 
 
 Once your combined score has been computed as explained above, here's how grades will be assigned:
 
-| GRADES | POINTS |
-| --- | --- |
-| A | 175 ≤ total points |
-| B | 155 ≤ total points < 175 |
-| C | 135 ≤ total points < 155 |
-| D | 115 ≤ total points < 135 |
-| F | total points < 115, missing lab
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+GRADES
+{{< thclose >}}
+{{< thopen >}}
+POINTS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+A
+{{< tdclose >}}
+{{< tdopen >}}
+175 ≤ total points
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+B
+{{< tdclose >}}
+{{< tdopen >}}
+155 ≤ total points \< 175
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+C
+{{< tdclose >}}
+{{< tdopen >}}
+135 ≤ total points \< 155
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+D
+{{< tdclose >}}
+{{< tdopen >}}
+115 ≤ total points \< 135
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+F
+{{< tdclose >}}
+{{< tdopen >}}
+total points \< 115, missing lab
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

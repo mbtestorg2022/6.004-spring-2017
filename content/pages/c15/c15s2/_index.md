@@ -6,7 +6,7 @@ title: 15.2 Topic Videos
 uid: f0d50dc2-904e-e419-c2e4-019c29c19532
 ---
 
-*   [<Annotated Slides]({{< baseurl >}}/pages/c15/c15s1)
+*   [\<Annotated Slides]({{< baseurl >}}/pages/c15/c15s1)
 *   [15.2.1Improving Beta Performance]({{< baseurl >}}/pages/c15/c15s2)
 *   [15.2.2Basic 5-Stage Pipeline]({{< baseurl >}}/pages/c15/c15s2/c15s2v2)
 *   [15.2.3Data Hazards]({{< baseurl >}}/pages/c15/c15s2/c15s2v3)
