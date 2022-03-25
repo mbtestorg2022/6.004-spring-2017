@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: null
+parent_uid: null
 resourcetype: Video
 title: Non-volatile Storage; Using the Hierarchy (8:43)
 uid: bb376fa4-75f3-c9c5-2c07-5893c67dfe96

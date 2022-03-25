@@ -8,6 +8,7 @@ image_metadata:
   credit: ''
   image-alt: Content of each slide on this webpage is described in the surrounding
     text.
+parent_uid: 7fba5e1d-2fa4-056c-150f-90508b97f937
 resourcetype: Image
 title: Slide02.png
 uid: 8739da65-0177-b37a-2152-97f046e4b2dd

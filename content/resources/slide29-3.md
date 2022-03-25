@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 76b26f4e-38da-1486-221a-ccb9b343c762
 resourcetype: Image
 title: Slide29.png
 uid: a8ad6ba1-913b-f75c-84fe-b13ca9621039

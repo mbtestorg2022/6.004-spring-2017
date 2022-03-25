@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: null
+parent_uid: null
 resourcetype: Video
 title: Karnaugh Maps (10:57)
 uid: cc279217-5257-6f0d-0f5f-4b90835abb59

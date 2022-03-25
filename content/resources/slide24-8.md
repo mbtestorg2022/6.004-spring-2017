@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 7fba5e1d-2fa4-056c-150f-90508b97f937
 resourcetype: Image
 title: Slide24.png
 uid: adbacfe6-050f-cf3f-4ff9-8580e62fe9af

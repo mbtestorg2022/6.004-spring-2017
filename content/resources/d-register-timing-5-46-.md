@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: null
+parent_uid: null
 resourcetype: Video
 title: D Register Timing (5:46)
 uid: f93c4596-2263-66f9-e30f-10f756afa8ce

@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: null
+parent_uid: null
 resourcetype: Video
 title: Data Hazards
 uid: 7f470568-b98c-e58d-9414-dfd7e605a765

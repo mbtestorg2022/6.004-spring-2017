@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: null
+parent_uid: null
 resourcetype: Video
 title: 'Worked Example: Latch Implementation'
 uid: a9e386f7-ebba-6ff4-3938-c7c822988941

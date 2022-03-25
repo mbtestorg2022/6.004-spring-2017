@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: null
+parent_uid: null
 resourcetype: Video
 title: Thread-level Parallelism
 uid: 82131814-a7e4-ac5e-0e0c-8982fc05bf92

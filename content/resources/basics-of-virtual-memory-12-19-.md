@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: null
+parent_uid: null
 resourcetype: Video
 title: Basics of Virtual Memory
 uid: 1b47d285-1e46-8b81-e08b-8ec073bb5554

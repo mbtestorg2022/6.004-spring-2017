@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: null
+parent_uid: null
 resourcetype: Video
 title: 'MOSFET: Electrical View (8:10)'
 uid: 915723a5-c75c-dc4f-9244-61bf62592347

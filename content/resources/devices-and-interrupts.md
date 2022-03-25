@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: null
+parent_uid: null
 resourcetype: Video
 title: 'Worked Example: Devices and Interrupts'
 uid: 25f7681e-6b5b-191b-574c-c8185d3dcab9

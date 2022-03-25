@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: null
+parent_uid: null
 resourcetype: Video
 title: 'Worked Example: CMOS Functions'
 uid: 9eb0516a-e2d0-6516-4908-88b919371e60

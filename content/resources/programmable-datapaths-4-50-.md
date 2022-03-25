@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: null
+parent_uid: null
 resourcetype: Video
 title: Programmable Datapaths (4:50)
 uid: 421ee09a-248a-669c-fe5f-1d9d654ecc7f

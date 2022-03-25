@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: null
+parent_uid: null
 resourcetype: Video
 title: Block Size; Cache Conflicts (6:04)
 uid: d5f9acf8-b295-4cfb-222b-4b85d525146e

@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: null
+parent_uid: null
 resourcetype: Video
 title: 'Worked Example: Virtual Memory'
 uid: fad136ac-b2d6-5f1c-4c76-730fb25ff313

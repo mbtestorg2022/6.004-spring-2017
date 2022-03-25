@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: null
+parent_uid: null
 resourcetype: Video
 title: 'Worked Example: A Better Beta'
 uid: 0632cda3-d83d-54ac-8618-f871bfa0f94a

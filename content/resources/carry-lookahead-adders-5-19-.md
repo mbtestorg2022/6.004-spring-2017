@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: null
+parent_uid: null
 resourcetype: Video
 title: Carry-lookahead Adders (5:19)
 uid: 3f451966-890d-485a-063c-100320b02b54

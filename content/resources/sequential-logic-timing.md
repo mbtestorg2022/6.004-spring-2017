@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: null
+parent_uid: null
 resourcetype: Video
 title: 'Worked Example: Sequential Logic Timing'
 uid: f6b9a641-aaf3-ee9a-913e-586949a3d637

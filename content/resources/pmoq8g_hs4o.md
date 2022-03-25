@@ -3,6 +3,7 @@ content_type: resource
 description: ''
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/6-004-computation-structures-spring-2017/89e96b9e22e9b6f1272b7e695c7238c7_PmOq8G_hs4o.srt
 file_type: application/x-subrip
+parent_uid: null
 resourcetype: Other
 title: 3play caption file
 uid: 89e96b9e-22e9-b6f1-272b-7e695c7238c7

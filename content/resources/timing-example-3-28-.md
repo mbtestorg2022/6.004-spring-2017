@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: null
+parent_uid: null
 resourcetype: Video
 title: Timing Example (3:28)
 uid: f54045e0-4bdb-c5d8-ffae-52130d58b5a8

@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: null
+parent_uid: null
 resourcetype: Video
 title: 'The Teaching Team: From Lab Assistants to Faculty Members, the Range of Experience
   is Key'

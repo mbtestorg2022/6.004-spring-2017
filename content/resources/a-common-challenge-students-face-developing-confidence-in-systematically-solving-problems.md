@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: null
+parent_uid: null
 resourcetype: Video
 title: 'A Common Challenge Students Face: Developing Confidence in Systematically
   Solving Problems'

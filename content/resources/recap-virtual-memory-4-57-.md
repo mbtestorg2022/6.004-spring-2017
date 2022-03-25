@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: null
+parent_uid: null
 resourcetype: Video
 title: 'Recap: Virtual Memory'
 uid: 21beb65c-5b0d-a88c-fe59-0c069d9b79ef

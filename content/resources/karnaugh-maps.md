@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: null
+parent_uid: null
 resourcetype: Video
 title: 'Worked Example: Karnaugh Maps'
 uid: c17d321f-8838-0bc6-71a5-3ccf8011fe5d

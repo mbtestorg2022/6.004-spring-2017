@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: null
+parent_uid: null
 resourcetype: Video
 title: Interprocess Communication
 uid: ab59526c-c231-6307-3379-ef25ce4685a1

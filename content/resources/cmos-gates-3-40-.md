@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: null
+parent_uid: null
 resourcetype: Video
 title: CMOS Gates (3:40)
 uid: acedcca6-7a91-bfef-d005-43b8f83989f3

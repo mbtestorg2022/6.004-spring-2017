@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: null
+parent_uid: null
 resourcetype: Video
 title: With Online Fora, Being Stuck is Just a 10-Minute Process
 uid: 9d3ba6e3-ca45-bb85-5a16-9a2882c4086a

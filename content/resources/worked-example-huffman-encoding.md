@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: null
+parent_uid: null
 resourcetype: Video
 title: 'Worked Example: Huffman Encoding'
 uid: 35c84ae9-b6cc-3db9-299f-5d2d1e9c93f0

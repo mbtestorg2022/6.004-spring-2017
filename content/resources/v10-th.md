@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: null
 resourcetype: Image
 title: v10-th.jpg
 uid: 822188e0-ab1e-edde-c43a-fab64c1163dc

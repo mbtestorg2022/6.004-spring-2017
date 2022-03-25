@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: null
+parent_uid: null
 resourcetype: Video
 title: The Locality Principle (7:12)
 uid: daef0d0e-cf55-da5d-45b3-d7557119137b

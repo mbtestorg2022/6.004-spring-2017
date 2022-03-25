@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: null
+parent_uid: null
 resourcetype: Video
 title: D Latch (6:12)
 uid: db339278-4e15-e95b-8be5-3725aecbd998

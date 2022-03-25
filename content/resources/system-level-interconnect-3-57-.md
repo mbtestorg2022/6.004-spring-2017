@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: null
+parent_uid: null
 resourcetype: Video
 title: System-level Interconnect
 uid: 2f9252f7-6335-733a-ab37-7bec243e5792

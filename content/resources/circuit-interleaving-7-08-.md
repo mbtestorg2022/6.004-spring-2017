@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: null
+parent_uid: null
 resourcetype: Video
 title: Circuit Interleaving (7:08)
 uid: 8a57d8fb-a401-a099-4713-540d748d2ae4

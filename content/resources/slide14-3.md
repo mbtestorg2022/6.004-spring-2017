@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: b39a5b15-c1c8-c348-7bc5-29f6a8d2e699
 resourcetype: Image
 title: Slide14.png
 uid: 0ff7dc66-7b8e-1a06-540a-002aa6bb20ee

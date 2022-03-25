@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: null
+parent_uid: null
 resourcetype: Video
 title: Quantifying Information (5:22)
 uid: cb01f92a-8007-8a4b-e86b-abc7e83d1241

@@ -1,6 +1,7 @@
 ---
 content_type: page
 layout: instructor_insights
+parent_uid: null
 title: Instructor Insights
 uid: afe08404-8e78-ace8-b662-e0ac78cd1a98
 ---

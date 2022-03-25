@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: null
+parent_uid: null
 resourcetype: Video
 title: Symbols and Labels (4:24)
 uid: f39caf8c-1906-426e-aaad-3ff06ff9d0ab

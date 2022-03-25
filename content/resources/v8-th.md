@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: null
 resourcetype: Image
 title: v8-th.jpg
 uid: 142de93e-5398-db0c-1476-36e6b86f2b95

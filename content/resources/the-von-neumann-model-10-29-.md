@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: null
+parent_uid: null
 resourcetype: Video
 title: The von Neumann Model (10:29)
 uid: 61d2e0ae-fa08-dcd7-d430-e8bcbe1ebc1d

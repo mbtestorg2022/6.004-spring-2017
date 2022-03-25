@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: null
+parent_uid: null
 resourcetype: Video
 title: Binary Multiplication (6:03)
 uid: 113a4c0e-66c4-e62a-a9ca-15057f2820bc

@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: null
+parent_uid: null
 resourcetype: Video
 title: Compiler Frontend (4:32)
 uid: b2d8d3c4-0928-eb51-d302-91625e770cac

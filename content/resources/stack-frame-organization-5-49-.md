@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: null
+parent_uid: null
 resourcetype: Video
 title: Stack Frame Organization (5:49)
 uid: 3d5b466a-869f-20f9-140d-205977ae506a

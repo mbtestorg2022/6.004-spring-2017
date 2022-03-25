@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: null
+parent_uid: null
 resourcetype: Video
 title: 'Worked Example: The Static Discipline'
 uid: b55ba53e-18b6-c157-2a54-1cf78f186285

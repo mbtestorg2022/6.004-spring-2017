@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: null
+parent_uid: null
 resourcetype: Video
 title: Pipelined Beta
 uid: eb0bf58c-c768-2b2a-da86-1bf65ef15415

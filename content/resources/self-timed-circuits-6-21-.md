@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: null
+parent_uid: null
 resourcetype: Video
 title: Self-timed Circuits (6:21)
 uid: 2c3bdc7a-f23d-63b7-f4c6-6f6a19e126bd

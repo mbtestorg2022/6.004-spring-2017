@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: null
+parent_uid: null
 resourcetype: Video
 title: Huffman Code (1:20)
 uid: 1fa379c4-6d74-cfea-1160-3f5c725bba11

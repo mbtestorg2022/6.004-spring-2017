@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: null
+parent_uid: null
 resourcetype: Video
 title: 'MOSFET: Physical View (7:59)'
 uid: 58315eb9-33d0-126c-8b6f-aa40b45f899a

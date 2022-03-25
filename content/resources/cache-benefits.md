@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: null
+parent_uid: null
 resourcetype: Video
 title: 'Worked Example: Cache Benefits'
 uid: accb5c4a-cc6b-10ac-6cc8-87fd35462aef

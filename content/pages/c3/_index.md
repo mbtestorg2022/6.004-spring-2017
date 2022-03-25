@@ -1,5 +1,6 @@
 ---
 content_type: page
+parent_uid: null
 title: 3 CMOS
 uid: 1a6131b0-2b8c-2f47-69db-158bbd05b575
 ---

@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: null
+parent_uid: null
 resourcetype: Video
 title: Lenient Gates (4:21)
 uid: 896b7c7d-11b3-481c-4fc9-ff97599d5ba3

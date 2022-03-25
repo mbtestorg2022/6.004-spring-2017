@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: null
+parent_uid: null
 resourcetype: Video
 title: Building Blocks (10:13)
 uid: 4103de9a-af94-1f17-da0c-74faf56a0390

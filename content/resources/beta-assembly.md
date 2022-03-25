@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: null
+parent_uid: null
 resourcetype: Video
 title: 'Worked Example: Beta Assembly'
 uid: 4f9c7b65-9420-d710-1e0f-99b7c0436be3

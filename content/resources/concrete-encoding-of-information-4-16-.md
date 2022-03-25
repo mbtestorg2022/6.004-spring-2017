@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: null
+parent_uid: null
 resourcetype: Video
 title: Concrete Encoding of Information (4:16)
 uid: 49142a1b-c430-1c7a-3ee4-a8d63a9fd6f9

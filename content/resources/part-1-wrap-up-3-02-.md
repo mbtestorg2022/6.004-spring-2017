@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: null
+parent_uid: null
 resourcetype: Video
 title: Part 1 Wrap-up (3:02)
 uid: 4c791480-3e39-c1de-65cd-3169db17a9cc

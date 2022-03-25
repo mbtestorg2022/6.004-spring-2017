@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: null
+parent_uid: null
 resourcetype: Video
 title: Finite State Machines (5:56)
 uid: 84502f44-164a-9ce0-8e5c-bc115765560f

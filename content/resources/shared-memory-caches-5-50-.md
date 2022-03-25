@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: null
+parent_uid: null
 resourcetype: Video
 title: Shared Memory &amp; Caches
 uid: 8aef388b-173b-3709-a091-3862e2984222

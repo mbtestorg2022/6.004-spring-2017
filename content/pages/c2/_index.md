@@ -1,5 +1,6 @@
 ---
 content_type: page
+parent_uid: null
 title: 2 The Digital Abstraction
 uid: 350323ac-aa01-682d-7e3d-980d579da90c
 ---

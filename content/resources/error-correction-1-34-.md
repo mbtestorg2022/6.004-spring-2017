@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: null
+parent_uid: null
 resourcetype: Video
 title: Error Correction (1:34)
 uid: 13e8705a-0e97-db27-3086-d5a79dcf6e83

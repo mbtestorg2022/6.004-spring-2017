@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: null
+parent_uid: null
 resourcetype: Video
 title: Error Detection (5:09)
 uid: 4a5d17e8-2ee6-dd1b-7fac-837f2034361b

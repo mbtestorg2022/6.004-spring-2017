@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: null
+parent_uid: null
 resourcetype: Video
 title: Wires
 uid: 00280336-1368-3f36-9924-4433b67613d0

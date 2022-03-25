@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: null
+parent_uid: null
 resourcetype: Video
 title: Stack Detective (5:57)
 uid: 8a43c6c0-48fe-3083-1bfc-0919fd23d87a

@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: null
+parent_uid: null
 resourcetype: Video
 title: Equivalent States; Implementation (6:03)
 uid: 4f2b76f2-6098-6193-c8a0-2221bbcbcddf

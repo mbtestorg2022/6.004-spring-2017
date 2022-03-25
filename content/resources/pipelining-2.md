@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: null
+parent_uid: null
 resourcetype: Video
 title: 'Worked Example: Pipelining 2'
 uid: 63600852-29b2-2f81-8010-302844282491

@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: null
+parent_uid: null
 resourcetype: Video
 title: 'Worked Example: Gates and Boolean Logic'
 uid: 225249ea-d89b-4078-6dc4-01911b5be0c7

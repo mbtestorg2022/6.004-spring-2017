@@ -1,5 +1,6 @@
 ---
 content_type: page
+parent_uid: null
 title: 8 Design Tradeoffs
 uid: 6b8eb127-6fd5-8cc5-9e96-5a684d70f7c9
 ---

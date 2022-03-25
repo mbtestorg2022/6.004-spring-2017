@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: null
+parent_uid: null
 resourcetype: Video
 title: Summary (3:42)
 uid: 6178d700-887f-cca4-a439-8e586fb5f4e4

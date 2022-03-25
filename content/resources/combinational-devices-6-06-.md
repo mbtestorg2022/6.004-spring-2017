@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: null
+parent_uid: null
 resourcetype: Video
 title: Combinational Devices (6:06)
 uid: fb2aa9e5-1ddd-5b96-5740-747b21359088

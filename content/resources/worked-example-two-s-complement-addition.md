@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: null
+parent_uid: null
 resourcetype: Video
 title: 'Worked Example: Two''s Complement Addition'
 uid: de13a99e-81fb-ecdd-34fb-c62dd7fa2252

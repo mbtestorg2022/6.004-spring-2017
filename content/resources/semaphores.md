@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: null
+parent_uid: null
 resourcetype: Video
 title: 'Worked Example: Semaphores'
 uid: be6b6d09-f2fd-2f6d-e776-402b88478d1c

@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: null
+parent_uid: null
 resourcetype: Video
 title: Dealing with Noise (4:20)
 uid: 4257552b-7706-1daa-9a08-7c06e6706948

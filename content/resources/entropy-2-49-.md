@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: null
+parent_uid: null
 resourcetype: Video
 title: Entropy (2:49)
 uid: 114bb62d-560d-a35a-db38-e947c605c36f

@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: null
+parent_uid: null
 resourcetype: Video
 title: Data-level Parallelism
 uid: 1bbb5576-cd5b-73a7-7b89-1ecd42b3f5f8

@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: null
+parent_uid: null
 resourcetype: Video
 title: Digital State (10:05)
 uid: 6ddc92f3-05a9-dc66-eb05-30f33170fbb4

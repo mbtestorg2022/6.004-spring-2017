@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: null
+parent_uid: null
 resourcetype: Video
 title: Cache Coherence
 uid: c66fe03a-7124-fba5-b2c0-a13f3f13ec7d

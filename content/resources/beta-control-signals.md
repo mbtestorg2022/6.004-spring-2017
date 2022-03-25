@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: null
+parent_uid: null
 resourcetype: Video
 title: 'Worked Example: Beta Control Signals'
 uid: 9032d820-7e61-be9a-a3c2-256c68ea3856

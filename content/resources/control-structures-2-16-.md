@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: null
+parent_uid: null
 resourcetype: Video
 title: Control Structures (2:16)
 uid: a8a026eb-1200-74fd-232c-f587074ea9d3

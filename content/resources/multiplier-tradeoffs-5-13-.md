@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: null
+parent_uid: null
 resourcetype: Video
 title: Multiplier Tradeoffs (5:13)
 uid: b09860ea-bfa0-ea57-0a85-4a02bb3b9b27

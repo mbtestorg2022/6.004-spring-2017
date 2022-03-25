@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: null
+parent_uid: null
 resourcetype: Video
 title: Using the MITx Platform to Structure Learning Sequences
 uid: df2d7ba2-ac0b-c7eb-54b8-89527e4bc256

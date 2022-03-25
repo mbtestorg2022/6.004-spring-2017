@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: null
+parent_uid: null
 resourcetype: Video
 title: Semaphores (7:31)
 uid: 97d0ffb4-e194-0932-c7b3-1dd6beaac394

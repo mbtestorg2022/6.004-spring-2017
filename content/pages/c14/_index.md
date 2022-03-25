@@ -1,5 +1,6 @@
 ---
 content_type: page
+parent_uid: null
 title: 14 Caches and the Memory Hierarchy
 uid: bb0a76eb-d0c8-86bf-0a4e-2106e7f17dd5
 ---

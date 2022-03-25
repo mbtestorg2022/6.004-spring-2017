@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: null
+parent_uid: null
 resourcetype: Video
 title: DRAM (5:10)
 uid: 4fa8cbe5-c4a5-3af1-2acf-3379e0968a89

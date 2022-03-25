@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: null
+parent_uid: null
 resourcetype: Video
 title: Compiling a Procedure (4:45)
 uid: 64a9f24a-0cc1-88f7-2c05-5a3d4acdc0c8

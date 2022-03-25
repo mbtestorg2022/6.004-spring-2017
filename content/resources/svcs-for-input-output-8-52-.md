@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: null
+parent_uid: null
 resourcetype: Video
 title: SVCs for Input/Output (8:52)
 uid: 4dcc88e8-9078-34b7-c84e-64f30d326373

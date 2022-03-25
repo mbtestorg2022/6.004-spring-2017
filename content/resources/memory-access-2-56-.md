@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: null
+parent_uid: null
 resourcetype: Video
 title: Memory Access (2:56)
 uid: ff9486a2-6cc8-5437-8285-d6116fa12db0

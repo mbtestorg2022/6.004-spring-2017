@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: null
+parent_uid: null
 resourcetype: Video
 title: Sequential Circuit Timing (6:52)
 uid: e8f651b7-3e39-4436-2c9a-99b272b941fc

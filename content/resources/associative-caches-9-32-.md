@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: null
+parent_uid: null
 resourcetype: Video
 title: Associative Caches (9:32)
 uid: 9e13d2d0-eb83-a0ec-08f6-6213de883474

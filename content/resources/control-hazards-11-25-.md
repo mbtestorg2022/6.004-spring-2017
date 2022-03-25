@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: null
+parent_uid: null
 resourcetype: Video
 title: Control Hazards
 uid: 224ab926-5fbf-09c0-0c9e-08e0e19df436

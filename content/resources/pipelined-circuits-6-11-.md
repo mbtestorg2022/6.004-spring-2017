@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: null
+parent_uid: null
 resourcetype: Video
 title: Pipelined Circuits (6:11)
 uid: 3593e58d-9545-fb3d-b7d9-0961e3d584bf

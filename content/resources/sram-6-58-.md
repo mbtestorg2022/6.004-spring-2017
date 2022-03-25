@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: null
+parent_uid: null
 resourcetype: Video
 title: SRAM (6:58)
 uid: 48aa593d-01df-5c91-a946-70698881285b

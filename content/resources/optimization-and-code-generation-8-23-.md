@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: null
+parent_uid: null
 resourcetype: Video
 title: Optimization and Code Generation (8:23)
 uid: fc4b9999-6a40-954d-bb7c-6ae8091fcb71

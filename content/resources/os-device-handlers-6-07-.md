@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: null
+parent_uid: null
 resourcetype: Video
 title: OS Device Handlers
 uid: e367ce3b-283c-0587-a97a-d45a8d892130

@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: null
+parent_uid: null
 resourcetype: Video
 title: 'Worked Example: Programmable Architectures'
 uid: 29db2392-8611-d1e8-4c3f-58ddd6cbfb40

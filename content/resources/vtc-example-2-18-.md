@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: null
+parent_uid: null
 resourcetype: Video
 title: VTC Example (2:18)
 uid: 087603f7-5d1f-1b13-e228-fe1d70999b46

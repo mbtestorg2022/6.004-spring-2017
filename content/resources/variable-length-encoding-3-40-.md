@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: null
+parent_uid: null
 resourcetype: Video
 title: Variable-length Encoding (3:40)
 uid: 2ffa1ad8-0a8a-4ec1-625b-a9e1e848a7e0

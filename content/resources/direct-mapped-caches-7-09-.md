@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: null
+parent_uid: null
 resourcetype: Video
 title: Direct-mapped Caches (7:09)
 uid: 5f4f60a1-7884-722a-5dab-1a177b70df5b

@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: null
+parent_uid: null
 resourcetype: Video
 title: Instruction-level Parallelism
 uid: 19053037-4c1e-d20b-2fdf-d66de12642d0

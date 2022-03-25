@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: null
+parent_uid: null
 resourcetype: Video
 title: Handling Illegal Instructions
 uid: 37ff46e3-dcc2-a1a9-02e3-3a18523bc264

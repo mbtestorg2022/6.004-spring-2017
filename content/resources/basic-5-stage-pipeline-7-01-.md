@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: null
+parent_uid: null
 resourcetype: Video
 title: Basic 5-Stage Pipeline
 uid: f44d20ea-52f0-568d-6479-6e02ce928e78

@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: null
+parent_uid: null
 resourcetype: Video
 title: 'Worked Example: Compilers'
 uid: c1b50830-748c-c995-1d80-0120d9ec547b

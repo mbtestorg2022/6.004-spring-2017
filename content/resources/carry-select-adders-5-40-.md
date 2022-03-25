@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: null
+parent_uid: null
 resourcetype: Video
 title: Carry-select Adders (5:40)
 uid: b67a6f48-9699-baa4-feb6-3bd4ff9cd23c

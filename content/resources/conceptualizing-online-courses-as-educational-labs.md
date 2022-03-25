@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: null
+parent_uid: null
 resourcetype: Video
 title: Conceptualizing Online Courses as Educational Labs
 uid: 039d8ea6-389d-03c9-87dc-3c26e42a6772

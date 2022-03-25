@@ -1,5 +1,6 @@
 ---
 content_type: page
+parent_uid: null
 title: 1 Basics of Information
 uid: 5e1b464a-9f55-f37c-1135-ec4ece6732b2
 ---

@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: null
+parent_uid: null
 resourcetype: Video
 title: Activation Records and Stacks (8:41)
 uid: cc260980-2a51-f685-313a-ba4a613d7e55

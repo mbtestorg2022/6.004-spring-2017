@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: null
+parent_uid: null
 resourcetype: Video
 title: Point-to-point Communication
 uid: 42d699f3-7ed5-3bc7-a722-031bc07a88bc

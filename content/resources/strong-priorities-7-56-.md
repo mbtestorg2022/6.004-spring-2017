@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: null
+parent_uid: null
 resourcetype: Video
 title: Strong Priorities (7:56)
 uid: 66ed3f3a-0ae0-de34-be5a-395b50481d2f

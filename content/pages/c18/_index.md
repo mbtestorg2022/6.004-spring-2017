@@ -1,5 +1,6 @@
 ---
 content_type: page
+parent_uid: null
 title: 18 Devices and Interrupts
 uid: 2c92b4b6-593e-3038-6fc7-38856e2308fb
 ---

@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: null
+parent_uid: null
 resourcetype: Video
 title: State Transition Diagrams (11:18)
 uid: 577a8989-7a9e-913a-0eb1-c611a826ec55

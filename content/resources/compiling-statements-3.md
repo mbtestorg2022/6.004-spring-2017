@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: null
+parent_uid: null
 resourcetype: Video
 title: Compiling Statements (3.53)
 uid: 1861426c-b171-0558-7df0-1a7fff7d5555

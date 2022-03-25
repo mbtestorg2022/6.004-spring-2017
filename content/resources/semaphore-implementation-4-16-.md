@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: null
+parent_uid: null
 resourcetype: Video
 title: Semaphore Implementation (4:16)
 uid: 5b2f7aac-2979-1c02-7bf5-ae0799455976

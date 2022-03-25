@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: null
+parent_uid: null
 resourcetype: Video
 title: Instruction Macros (7:39)
 uid: 2edba4bf-9e58-c9ba-0c87-0a7934b68dcd

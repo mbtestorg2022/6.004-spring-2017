@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: null
+parent_uid: null
 resourcetype: Video
 title: 'Worked Example: Quantifying Information'
 uid: a67d3ee1-3767-aa1f-cdf3-f038b887225b

@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: null
+parent_uid: null
 resourcetype: Video
 title: ALU Instructions (6:57)
 uid: 86e4aef4-1c33-96c8-58d7-2ed37e31f45e

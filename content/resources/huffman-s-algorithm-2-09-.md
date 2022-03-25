@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: null
+parent_uid: null
 resourcetype: Video
 title: Huffman's Algorithm (2:09)
 uid: 34121c6b-3372-1612-7520-d407827bc3dd

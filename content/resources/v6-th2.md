@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: null
 resourcetype: Image
 title: v6-th2.jpg
 uid: e6e77941-dbb3-a6fc-53c6-bc8d2713e836

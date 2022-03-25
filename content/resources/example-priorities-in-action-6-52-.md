@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: null
+parent_uid: null
 resourcetype: Video
 title: 'Example: Priorities in Action!'
 uid: 285358a1-a7d1-edd2-5436-3c1b22da8cf8

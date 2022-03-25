@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: null
+parent_uid: null
 resourcetype: Video
 title: 'Worked Example: Truth Tables'
 uid: ae1485cc-ebe5-494b-fbc3-0d428385fda3

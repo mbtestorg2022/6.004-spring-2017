@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: null
+parent_uid: null
 resourcetype: Video
 title: Sum of Products (9:38)
 uid: 82066f9b-0b78-79fc-7545-c9fef6f74a10

@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: null
+parent_uid: null
 resourcetype: Video
 title: Exceptions and Interrupts
 uid: 1b5df9fc-3987-868d-1b05-0cee018b6744

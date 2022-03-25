@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: null
+parent_uid: null
 resourcetype: Video
 title: Datapaths and FSMs (5:17)
 uid: a7d2318f-b252-19b6-544f-2cfffca6a69f

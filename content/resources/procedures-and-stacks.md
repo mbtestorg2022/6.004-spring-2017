@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: null
+parent_uid: null
 resourcetype: Video
 title: 'Worked Example: Procedures and Stacks'
 uid: 37b84879-38ef-d25f-0fb9-47d9332e20b9

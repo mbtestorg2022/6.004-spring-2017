@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: null
+parent_uid: null
 resourcetype: Video
 title: Communication Topologies (6:28)
 uid: 2d9a0090-55e3-dd61-5f82-0ac8d0c76116

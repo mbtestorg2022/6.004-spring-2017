@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: null
+parent_uid: null
 resourcetype: Video
 title: An Interview with Christopher Terman on Teaching Computation Structures
 uid: 6b51b112-bd65-9ef1-947d-69b7a6dd049d

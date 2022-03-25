@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: null
+parent_uid: null
 resourcetype: Video
 title: Weak Priorities (5:10)
 uid: 9eb850a9-2f36-fcb8-755d-b8bfd040099f

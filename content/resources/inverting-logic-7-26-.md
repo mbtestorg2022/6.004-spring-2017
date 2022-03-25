@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: null
+parent_uid: null
 resourcetype: Video
 title: Inverting Logic (7:26)
 uid: 6f4f5a32-9e4b-d965-3144-5e2592a4ce85

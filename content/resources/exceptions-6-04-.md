@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: null
+parent_uid: null
 resourcetype: Video
 title: Exceptions (6:04)
 uid: 44cf90e6-4885-47f1-1e51-3f0eeffbd665

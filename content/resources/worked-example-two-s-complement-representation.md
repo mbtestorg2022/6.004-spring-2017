@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: null
+parent_uid: null
 resourcetype: Video
 title: 'Worked Example: Two''s Complement Representation'
 uid: 2ffb5c49-f9cc-f3a5-2e86-bfd763f04f84

@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: null
+parent_uid: null
 resourcetype: Video
 title: Models of Computation (6:12)
 uid: 2e52ace9-14be-0d42-d385-f78452aae86b

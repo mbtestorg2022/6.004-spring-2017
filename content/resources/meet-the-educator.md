@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: null
+parent_uid: null
 resourcetype: Video
 title: Meet the Educator
 uid: 132b4773-3716-6146-d893-4c0c2f80c3da

@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: null
+parent_uid: null
 resourcetype: Video
 title: CMOS Recipe (5:15)
 uid: 6511917b-5324-1ec5-6bfd-42dafbd8dbe2

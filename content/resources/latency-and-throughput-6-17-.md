@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: null
+parent_uid: null
 resourcetype: Video
 title: Latency and Throughput (6:17)
 uid: 638fbd17-5185-7f93-67ad-b6c3256b4bea

@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: null
+parent_uid: null
 resourcetype: Video
 title: D Register (5:06)
 uid: 39c95bb7-6022-dfc4-82e1-7f25cc95bcfa

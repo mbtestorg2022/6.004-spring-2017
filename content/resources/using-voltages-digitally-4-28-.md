@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: null
+parent_uid: null
 resourcetype: Video
 title: Using Voltages Digitally (4:28)
 uid: fbbfe878-407d-c260-4c45-3b368cb1f76d

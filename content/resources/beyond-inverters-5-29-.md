@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: null
+parent_uid: null
 resourcetype: Video
 title: Beyond Inverters (5:29)
 uid: 2c65bac3-1d63-da2e-6190-feac7e17ad3f

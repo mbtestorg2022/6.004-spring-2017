@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: null
+parent_uid: null
 resourcetype: Video
 title: 'Worked Example: FSM States and Transitions'
 uid: 6e52f4cb-5157-b249-280d-2c8dc77638e0

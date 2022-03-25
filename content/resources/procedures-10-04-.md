@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: null
+parent_uid: null
 resourcetype: Video
 title: Procedures (10:04)
 uid: 3dd2be06-225e-f8ed-708b-ab00b7fa8432

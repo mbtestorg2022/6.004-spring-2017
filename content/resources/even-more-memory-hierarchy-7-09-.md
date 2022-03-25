@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: null
+parent_uid: null
 resourcetype: Video
 title: Even More Memory Hierarchy
 uid: b4e8eac3-c3fd-0494-925c-bce70ad51eed

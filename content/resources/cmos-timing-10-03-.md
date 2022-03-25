@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: null
+parent_uid: null
 resourcetype: Video
 title: CMOS Timing (10:03)
 uid: 2f62f1c1-67e6-628a-2ac9-f07689d2bf9f

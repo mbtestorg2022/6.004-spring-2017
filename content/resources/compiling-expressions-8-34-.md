@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: null
+parent_uid: null
 resourcetype: Video
 title: Compiling Expressions (8:34)
 uid: cb34fd07-7ec5-2ee1-979a-08a2df3bdcfe

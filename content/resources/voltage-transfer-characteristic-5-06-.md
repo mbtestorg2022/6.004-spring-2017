@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: null
+parent_uid: null
 resourcetype: Video
 title: Voltage Transfer Characteristic (5:06)
 uid: d1ddb5d7-bceb-6624-25b6-843e2839bf5e

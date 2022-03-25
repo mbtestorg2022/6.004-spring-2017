@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: null
+parent_uid: null
 resourcetype: Video
 title: 'Hallway Learning: The Value of Common Learning Experiences at the Undergraduate
   Level'

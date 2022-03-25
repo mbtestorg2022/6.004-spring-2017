@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: null
+parent_uid: null
 resourcetype: Video
 title: Atomic Transactions
 uid: 4e953b62-37a0-d849-df85-54e08e30848b

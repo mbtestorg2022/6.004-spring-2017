@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: null
+parent_uid: null
 resourcetype: Video
 title: What is information? (2:16)
 uid: dba9ced0-7fbf-7411-352e-83b9d0aab5b0

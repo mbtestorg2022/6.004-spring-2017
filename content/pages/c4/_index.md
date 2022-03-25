@@ -1,5 +1,6 @@
 ---
 content_type: page
+parent_uid: null
 title: 4 Combinational Logic
 uid: dd057f79-dfc7-79ee-ad85-cab1a1a91750
 ---

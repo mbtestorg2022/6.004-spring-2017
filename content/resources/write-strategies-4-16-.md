@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: null
+parent_uid: null
 resourcetype: Video
 title: Write Strategies (4:16)
 uid: 5116a90c-ab3f-9e26-e120-fdf0efc7eb33

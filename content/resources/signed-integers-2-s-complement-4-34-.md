@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: null
+parent_uid: null
 resourcetype: Video
 title: 'Signed Integers: 2''s complement (4:34)'
 uid: 0bba8cc1-46e2-463f-649b-2e8260850aba

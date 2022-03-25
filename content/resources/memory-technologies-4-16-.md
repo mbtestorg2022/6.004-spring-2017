@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: null
+parent_uid: null
 resourcetype: Video
 title: Memory Technologies (4:16)
 uid: 2181bb02-a8d9-eccb-22af-eb19505dc06f

@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: null
+parent_uid: null
 resourcetype: Video
 title: 'Worked Example: FSM Implementation'
 uid: ba2cbd59-8e2a-79d1-fa77-463c28a86317

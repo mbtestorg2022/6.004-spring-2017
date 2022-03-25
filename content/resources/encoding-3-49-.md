@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: null
+parent_uid: null
 resourcetype: Video
 title: Encoding (3:49)
 uid: 9be8fede-b1e7-14c3-391b-e2f17d7fe330

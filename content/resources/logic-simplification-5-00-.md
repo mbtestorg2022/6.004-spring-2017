@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: null
+parent_uid: null
 resourcetype: Video
 title: Logic Simplification (5:00)
 uid: 06784f32-f6e0-d543-cfc0-01d9ba6be8fb

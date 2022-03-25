@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: null
+parent_uid: null
 resourcetype: Video
 title: Load and Store (4:34)
 uid: d7e387fb-0a44-8c6c-6699-3258266da25e

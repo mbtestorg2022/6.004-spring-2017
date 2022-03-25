@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: null
+parent_uid: null
 resourcetype: Video
 title: Pipelining Summary
 uid: 2c06234a-a0ad-7845-efbe-b17d7de1f891

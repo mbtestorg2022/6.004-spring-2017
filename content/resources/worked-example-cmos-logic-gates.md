@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: null
+parent_uid: null
 resourcetype: Video
 title: 'Worked Example: CMOS Logic Gates'
 uid: 1f9435c3-4f17-8883-6ed9-a04f744635d8

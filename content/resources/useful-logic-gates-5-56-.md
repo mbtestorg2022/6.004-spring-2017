@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: null
+parent_uid: null
 resourcetype: Video
 title: Useful Logic Gates (5:56)
 uid: 46417b7e-85cd-3bd3-194f-9092336a227f

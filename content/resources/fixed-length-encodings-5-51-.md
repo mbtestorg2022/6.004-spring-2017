@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: null
+parent_uid: null
 resourcetype: Video
 title: Fixed-length Encodings (5:51)
 uid: 3fc967c1-261d-8f4f-fe0a-7579a41afb50

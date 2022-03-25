@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: null
+parent_uid: null
 resourcetype: Video
 title: Synchronization and Metastability (9:52)
 uid: 9f41afa6-ab3a-e04b-2255-a039a6f01a3b

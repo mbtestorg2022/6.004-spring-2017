@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: null
+parent_uid: null
 resourcetype: Video
 title: Analog Signaling (7:20)
 uid: c5253610-66e8-23cc-f1d4-b88a9a650d8f

@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: null
+parent_uid: null
 resourcetype: Video
 title: Caches (5:54)
 uid: bd374d9d-7e02-e968-4951-e23c051ec3ba

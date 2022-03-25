@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: null
+parent_uid: null
 resourcetype: Video
 title: Beta Junkyard
 uid: 7393c2c5-a336-ff84-391a-b1c7e2b1ce62

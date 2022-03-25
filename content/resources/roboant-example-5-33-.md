@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: null
+parent_uid: null
 resourcetype: Video
 title: Roboant Example (5:33)
 uid: 93f3fb4e-24b4-92ef-928a-95b49c812f4f

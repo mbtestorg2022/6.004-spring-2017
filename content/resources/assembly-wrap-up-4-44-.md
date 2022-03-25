@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: null
+parent_uid: null
 resourcetype: Video
 title: Assembly Wrap-up (4:44)
 uid: e7006e24-b55e-a9f5-c264-610f1c24b47d

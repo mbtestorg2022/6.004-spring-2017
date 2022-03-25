@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: null
+parent_uid: null
 resourcetype: Video
 title: 'Worked Example: Combinational Logic Timing'
 uid: 51a8ea01-eac0-5faf-96c9-ecf0c605ffcb

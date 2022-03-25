@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: null
+parent_uid: null
 resourcetype: Video
 title: 'Worked Example: Operating Systems'
 uid: 79f7230e-ace3-d57a-b4d7-cee4dababbc1

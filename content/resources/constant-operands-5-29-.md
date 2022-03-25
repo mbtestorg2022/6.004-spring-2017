@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: null
+parent_uid: null
 resourcetype: Video
 title: Constant Operands (5:29)
 uid: eedc53b8-b601-a077-1056-46ab1d74fc0f
