@@ -26,7 +26,7 @@ The problem sets and lab exercises are intended to give students "hands-on" expe
 Prerequisites
 -------------
 
-[_8.02 Physics II: Electricity and Magnetism_](/courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/)
+[_8.02 Physics II: Electricity and Magnetism_](/courses/8-02-physics-ii-electricity-and-magnetism-spring-2007)
 
 Learning Objectives
 -------------------

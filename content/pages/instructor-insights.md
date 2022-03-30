@@ -39,7 +39,7 @@ Curriculum Information
 
 ### Prerequisites
 
-*   _[8.02 Physics II: Electricity and Magnetism](/courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/)_
+*   _[8.02 Physics II: Electricity and Magnetism](/courses/8-02-physics-ii-electricity-and-magnetism-spring-2007)_
 
 *   Students should feel comfortable using computers. A rudimentary knowledge of programming language concepts and electrical fundamentals is assumed.
 
